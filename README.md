@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/glwester/257f489b-4855-4ca3-991b-e8eb2f725488/4cc79855-7480-4d99-98d1-e1512578900b/_apis/work/boardbadge/9fda5358-a31e-4ea6-8881-9c48f9cecc3f)](https://dev.azure.com/glwester/257f489b-4855-4ca3-991b-e8eb2f725488/_boards/board/t/4cc79855-7480-4d99-98d1-e1512578900b/Microsoft.RequirementCategory)
 #Xamarin CRM
 
 Xamarin CRM is a demo app whose imagined purpose is to serve the mobile workforce of a fictitious company that sells 3D printer hardware and supplies. The app empowers salespeople to track their sales performance, manage leads, view their contacts, manage orders, and browse the product catalog.
